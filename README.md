@@ -28,8 +28,11 @@ _
 
 ## Practice List
 
-实践任务 | 任务描述 | 难度 | 预估用时 | 涉及知识点
+Practice | Brief Introduction | Tier | Knowledge Involved
 ------------ | ------------- | ------------- | ------------- | -------------
-[静态简历](./) | 使用 HTML 和 CSS 实现一个自己的在线简历 | :star: | 2 | HTML CSS
-[计算器函数](./) | 实现一个计算器函数，输入为一个计算表达式，输出为计算结果 | :star: | 2 | JavaScript
-[带界面交互的计算机](./) | 实现一个带界面和交互的计算机 | :star::star: | 8 | HTML CSS JavaScript
+[静态简历](./practice_chs/staticresume.md) | 使用 HTML 和 CSS 实现一个自己的在线简历 | :star: | HTML CSS
+[电子报纸](./practice_chs/enewspaper.md) | 使用 HTML 和 CSS 实现一个报纸的电子化 | :star: | HTML CSS
+[计算器函数](./practice_chs/calcfunc.md) | 实现一个计算器函数，输入为一个计算表达式，输出为计算结果 | :star: | JavaScript
+[带界面交互的简单计算机](./practice_chs/simplecalc.md) | 实现一个带界面和交互的计算机 | :star: | HTML CSS JavaScript
+[待办小工具](./practice_chs/todo.md) | 实现一个TODO待办管理小工具 | :star::star: | HTML CSS JavaScript
+
