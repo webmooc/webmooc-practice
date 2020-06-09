@@ -29,10 +29,23 @@ _
 ## Practice List
 
 Practice | Brief Introduction | Tier | Knowledge Involved
------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 [静态简历](./practice_chs/staticresume.md) | 使用 HTML 和 CSS 实现一个自己的在线简历 | :star: | HTML CSS
 [电子报纸](./practice_chs/enewspaper.md) | 使用 HTML 和 CSS 实现一个报纸的电子化 | :star: | HTML CSS
 [计算器函数](./practice_chs/calcfunc.md) | 实现一个计算器函数，输入为一个计算表达式，输出为计算结果 | :star: | JavaScript
+[队列](./practice_chs/queue.md) | 实现一个队列并在页面中显示 | :star: | JavaScript
+[栈](./practice_chs/stack.md) | 实现一个栈并在页面中显示 | :star: | JavaScript
+[石头剪刀布](./practice_chs/rock-paper-scissors.md) | 待更新 | :star: | JavaScript
+[树可视化](./) | 待更新 | :star: | JavaScript
+[一个简单的图表](./) | 待更新 | :star: | JavaScript
+[颜色选择器](./practice_chs/color-picker.md) | 待更新 | :star: | JavaScript
+[表单生成器](./) | 待更新 | :star: | JavaScript
+[车流模拟](./) | 待更新 | :star: | JavaScript
+[与非门模拟](./) | 待更新 | :star: | JavaScript
+[数据总线](./) | 待更新 | :star: | JavaScript
+[密码解析](./) | 待更新 | :star: | JavaScript
 [带界面交互的简单计算机](./practice_chs/simplecalc.md) | 实现一个带界面和交互的计算机 | :star: | HTML CSS JavaScript
 [待办小工具](./practice_chs/todo.md) | 实现一个TODO待办管理小工具 | :star::star: | HTML CSS JavaScript
+[简易聊天室](./) | 待更新 | :star: | JavaScript
+[足球场](./) | 待更新 | :star: | JavaScript
 
