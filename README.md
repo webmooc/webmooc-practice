@@ -37,7 +37,7 @@ Practice | Brief Introduction | Tier | Knowledge Involved
 [栈](./practice_chs/stack.md) | 实现一个栈并在页面中显示 | :star: | JavaScript
 [石头剪刀布](./practice_chs/rock-paper-scissors.md) | 待更新 | :star: | JavaScript
 [树可视化](./) | 待更新 | :star: | JavaScript
-[一个简单的图表](./) | 待更新 | :star: | JavaScript
+[简单的柱状图](./practice_chs/simplebarchart.md) | 待更新 | :star: | JavaScript
 [颜色选择器](./practice_chs/color-picker.md) | 待更新 | :star: | JavaScript
 [表单生成器](./) | 待更新 | :star: | JavaScript
 [车流模拟](./) | 待更新 | :star: | JavaScript
