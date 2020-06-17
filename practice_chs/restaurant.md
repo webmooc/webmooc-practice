@@ -8,9 +8,9 @@
 
 本练习中，要实现厨师、顾客以及你自己三个角色的关键操作，完成从顾客等位、点菜、烹饪、用餐、支付的一系列状态变更的数据、信息、交互、展现的变化及处理。
 
-可以参考[原型图](./asset/restaurant_prototype.png)
+可以参考[原型图](./asset/restaurant/restaurant_prototype.png)
 
-[本练习提供的附件中](./asset/restaurant_pics.zip)，包括了开发本练习所需要的图片资源。
+[本练习提供的附件中](./asset/restaurant/)，包括了开发本练习所需要的图片资源。
 
 ## 用例描述：
 

@@ -46,6 +46,7 @@ Practice | Brief Introduction | Tier | Knowledge Involved
 [密码解析](./) | 待更新 | :star: | JavaScript
 [带界面交互的简单计算机](./practice_chs/simplecalc.md) | 实现一个带界面和交互的计算机 | :star: | HTML CSS JavaScript
 [待办小工具](./practice_chs/todo.md) | 实现一个TODO待办管理小工具 | :star::star: | HTML CSS JavaScript
+[餐厅游戏](./practice_chs/restaurant.md) | 实现一个餐厅经营的小游戏 | :star::star::star: | HTML CSS JavaScript
 [简易聊天室](./) | 待更新 | :star: | JavaScript
 [足球场](./) | 待更新 | :star: | JavaScript
 
