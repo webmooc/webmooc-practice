@@ -31,6 +31,7 @@ _
 Practice | Brief Introduction | Tier | Knowledge Involved
 ------------ | ------------- | ------------- | -------------
 [静态简历](./practice_chs/staticresume.md) | 使用 HTML 和 CSS 实现一个自己的在线简历 | :star: | HTML CSS
+[高级简历](./practice_chs/advancedresume.md) | 使用 HTML、CSS、JavaScript 实现一个高级版的个人简历网站 | :star: | HTML CSS JavaScript
 [电子报纸](./practice_chs/enewspaper.md) | 使用 HTML 和 CSS 实现一个报纸的电子化 | :star: | HTML CSS
 [计算器函数](./practice_chs/calcfunc.md) | 实现一个计算器函数，输入为一个计算表达式，输出为计算结果 | :star: | JavaScript
 [队列](./practice_chs/queue.md) | 实现一个队列并在页面中显示 | :star: | JavaScript
